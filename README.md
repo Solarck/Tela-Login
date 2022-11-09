@@ -7,8 +7,9 @@
 ___
 
 ## Biblioteca utilizada 
-https://fontawesome.com/search
+- https://fontawesome.com/search
 
 ## Link da Demo
+- https://solarck.github.io/Tela-Login/
 
  <p>Projeto em andamento, em breve novas atualizações</p
