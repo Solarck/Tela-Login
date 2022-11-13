@@ -52,9 +52,10 @@ h1::after {
     background: rgb(255, 0, 140);
 }
 
-p {
+.title p {
+    display: flex;
     justify-content: center;
-    margin: 12px;
+    margin: 10px;
 }
 
 /* Outras formas de login  */
@@ -178,8 +179,8 @@ i {
 }
 
 /* Desenvolvido por Fernando Carlos */
-footer {
-    margin-top: 30px;
+footer p{
+    margin-top: 33px;
 }
 
 @media screen and (max-width:750px) {
@@ -190,6 +191,6 @@ footer {
     }
 
     footer {
-        margin-top: 80px;
+        margin-top: 50px;
     }
 }
